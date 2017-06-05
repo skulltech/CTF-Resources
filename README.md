@@ -35,3 +35,25 @@ Inspiration and partially copied from - [apsdehal/awesome-ctf](https://github.co
 - [CTF Tools](https://github.com/zardus/ctf-tools)
 - [pwntools](https://github.com/Gallopsled/pwntools)
 - [Python3 pwntools](https://github.com/arthaud/python3-pwntools)
+
+### CTF Learning Resources
+
+- https://github.com/isislab/Project-Ideas/wiki
+- http://ctfs.github.io/resources/
+- https://trailofbits.github.io/ctf/
+- https://www.endgame.com/blog/technical-blog/how-get-started-ctf
+- https://null-byte.wonderhowto.com/
+- http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
+- http://captf.com/practice-ctf/
+- https://ctf365.com/
+- https://exploit-exercises.com/
+- https://picoctf.com/
+- http://overthewire.org/wargames/
+- https://kitctf.de/learning/getting-started
+- https://medium.com/@a.hilton83/learning-resources-a0a859bf9dbd
+- https://www.easyctf.com/
+- https://www.tunnelsup.com/hacker-challenges/
+- http://ctf.tn/
+- https://www.root-me.org/en/Capture-The-Flag/
+- http://smashthestack.org/
+- https://microcorruption.com/login
